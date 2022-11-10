@@ -19,7 +19,7 @@
     "projectStart": "3/7/2022",
     "projectEnd": "4/9/2022",
     "projectCover": "https://raw.githubusercontent.com/mxrked/codingthefront-revamped_CDN/master/projects/onlyjojo/onlyjojo-cover.webp",
-    "projectTechs": ["ReactJS", "Sass", "Bootstrap"],
+    "projectTechs": ["Sass", "Bootstrap", "ReactJS"],
     "projectCodeLink": "https://github.com/mxrked/OnlyJojo",
     "projectDemoLink": "http://basicallyeasy.com/next-projects/onlyjojo/"
   },
@@ -55,7 +55,7 @@
     "projectStart": "11/29/2021",
     "projectEnd": "1/02/2022",
     "projectCover": "https://raw.githubusercontent.com/mxrked/codingthefront-revamped_CDN/master/projects/rtsyvisuals/rtsyvisuals-project-cover.webp",
-    "projectTechs": ["ReactJS", "Sass", "Bootstrap"],
+    "projectTechs": ["Sass", "Bootstrap", "ReactJS"],
     "projectCodeLink": "https://github.com/mxrked/Rick-s-Website",
     "projectDemoLink": "https://rtsyvisuals.com/home"
   }
