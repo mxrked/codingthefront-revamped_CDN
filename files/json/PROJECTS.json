@@ -43,15 +43,5 @@
     "projectCodeLink": "https://github.com/mxrked/floraandfauna",
     "projectDemoLink": "https://fantastic-starburst-b0f940.netlify.app/"
   },
-  {
-    "projectID": "#ID_005",
-    "projectName": "RTSYVisuals",
-    "projectClient": "Rick Dingwall - Lexington, NC",
-    "projectStart": "11/2021",
-    "projectEnd": "01/2022",
-    "projectCover": "https://raw.githubusercontent.com/mxrked/codingthefront-revamped_CDN/master/projects/rtsyvisuals/rtsyvisuals-project-cover.webp",
-    "projectTechs": ["ReactJS", "Sass", "Bootstrap"],
-    "projectCodeLink": "https://github.com/mxrked/Rick-s-Website",
-    "projectDemoLink": "https://rtsyvisuals.com/home"
-  }
+  
 ]
