@@ -51,7 +51,7 @@
       "Develop the site to work with Microsoft Edge, Mozilla Firefox and Google Chrome",
       "Made with a shopping cart system similar to OnlyJojo's"
     ],
-    "projectDemoLink": "https://effulgent-marshmallow-23dfdf.netlify.app/"
+    "projectDemoLink": "http://basicallyeasy.com/next-projects/afreshplace/"
   },
   {
     "projectID": "#ID_005",
@@ -65,7 +65,7 @@
       "Made into an ecommerce-type website with a shopping cart system that uses Session and Local Storage",
       "Applied features that relate to the manga and anime of the same name through the website"
     ],
-    "projectDemoLink": "https://startling-syrniki-d0dc90.netlify.app/"
+    "projectDemoLink": "http://basicallyeasy.com/next-projects/onlyjojo/"
   },
   {
     "projectID": "#ID_006",
@@ -80,6 +80,6 @@
       "Created custom modals for displaying images of the different hedgehogs",
       "Used text and information based on each individual hedgehog type"
     ],
-    "projectDemoLink": "http://basicallyeasy.com/next-projects/sharpquills/"
+    "projectDemoLink": "https://astounding-gaufre-f9428d.netlify.app/"
   }
 ]
