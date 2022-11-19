@@ -31,42 +31,36 @@
   },
   {
     "eventID": "#ID_006",
-    "eventStartYear": "2020",
-    "eventName": "Started Programming and Software Development Degree",
-    "eventDate": "08/2020"
-  },
-  {
-    "eventID": "#ID_007",
     "eventStartYear": "2021",
     "eventName": "Built RTSYVisuals Website",
     "eventDate": "11/2021 - 01/2022"
   },
   {
-    "eventID": "#ID_008",
+    "eventID": "#ID_007",
     "eventStartYear": "2021",
     "eventName": "Built SharpQuills Website",
     "eventDate": "12/2021"
   },
   {
-    "eventID": "#ID_009",
+    "eventID": "#ID_008",
     "eventStartYear": "2022",
     "eventName": "Built A Fresh Place Website",
     "eventDate": "01/2022 - 02/2022"
   },
   {
-    "eventID": "#ID_010",
+    "eventID": "#ID_009",
     "eventStartYear": "2022",
     "eventName": "Built OnlyJojo Website",
     "eventDate": "03/2022 - 04/2022"
   },
   {
-    "eventID": "#ID_011",
+    "eventID": "#ID_010",
     "eventStartYear": "2022",
     "eventName": "Built Flora and Fauna Website",
     "eventDate": "09/2022"
   },
   {
-    "eventID": "#ID_012",
+    "eventID": "#ID_011",
     "eventStartYear": "2023",
     "eventName": "Completed Programming and Software Development Degree",
     "eventDate": "05/2023"
